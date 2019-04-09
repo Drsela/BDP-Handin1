@@ -1,0 +1,17 @@
+File name: C:\Users\drsel\Documents\BDP-Aflevering1\Margarit\Margarit\images\WBC02.jpg 
+Red cells: 87 
+White cells: 2 
+Red variance: 33.43 
+White variance: 11.95 
+Percentage distribution: 2.30 
+avg.red: 31.15 
+avg.white: 78.40 
+Thresholdlabel: 114.00 
+Red shadows: 0.00 
+Red highligts: 210.00 
+Blue shadows: 158.00 
+Blue highlights: 187.00 
+Green shadows: 135.00 
+Green highlights: 242.00 
+Sensitivity: 0.80 
+Edge treshold: 0.01 
